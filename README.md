@@ -34,7 +34,7 @@ I bridge cutting-edge AI with robust engineering to deliver platforms that are f
   - Persistent session tracking and rich analytics with **PostgreSQL** + **pgvector**
 
   🎨 Frontend (in development):  
-  - Built with **React**, **Next.js**, **Tailwind CSS**, and **shadcn/ui**  
+  - Built with **React**, **Tailwind CSS**, and **shadcn/ui**  
   - Clean, extensible UI framework designed for expressive character chat, onboarding flows, and future visualizations  
   - Fully responsive and optimized for rapid iteration
 
@@ -79,10 +79,10 @@ I bridge cutting-edge AI with robust engineering to deliver platforms that are f
 - OpenAI PHP SDK, LLM Orchestration, Session Memory Design
 
 #### Languages:
-- Python, PHP, JavaScript, TypeScript, SQL
+- Python, PHP, JavaScript, TypeScript, SQL, C#
 
 #### Web & Application Frameworks:
-- Laravel (11+), FastAPI, Inertia.js, React, Vue 3, Next.js
+- Laravel (11+), FastAPI, Inertia.js, React, Vue 3
 
 #### Databases & Storage:
 - PostgreSQL + pgvector, MySQL, Supabase, Airtable
